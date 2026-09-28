@@ -1,0 +1,6 @@
+{
+  "name": "Nirvana Luxury Expeditions",
+  "description": "World-class cinematic luxury travel agency and booking platform for India and bespoke global journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
